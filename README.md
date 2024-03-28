@@ -4,6 +4,7 @@ Spring 2024: CS5720: Neural Network Deep Learning: In Class Programming Assignme
 Name: Bhanu Chandrika Lakkimsetti ID: 700747439
 
 Code File - NNDL_ICP_9.ipynb   Document- NNDL_ICP_9.DOCX     Video Link: 
+
 Types of ANNs and Recurrent Neural Network
 
 Use Case Description:
